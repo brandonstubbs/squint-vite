@@ -5,5 +5,5 @@ with [vite](https://vitejs.dev/).
 
 
 ## Sample Projects:
-[Squint + Vite Vanilla](./vanilla/)
-[Squint + Vite React](./react/)
+- [Squint + Vite Vanilla](./vanilla/)
+- [Squint + Vite React](./react/)
