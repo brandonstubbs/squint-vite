@@ -1,7 +1,8 @@
 # Squint ❤️ Vite
 
 This is a sample project of setting up [squint](https://github.com/squint-cljs/squint)
-with [vite](https://vitejs.dev/).
+with [vite](https://vitejs.dev/). With thanks to [@martinklepsch](https://github.com/martinklepsch)
+for the plugin [investigation](https://github.com/squint-cljs/squint/discussions/464)
 
 
 ## Sample Projects:
